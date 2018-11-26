@@ -1,0 +1,1 @@
+Developed a Database Management System to access data stored on disk and designed an eviction policy to flush stale pages from the database
